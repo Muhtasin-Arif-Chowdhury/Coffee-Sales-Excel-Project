@@ -3,9 +3,13 @@ Coffee Shop Sales Analysis: Unveiling Customer Behavior and Sales Trends
 This Excel workbook delves into the world of your coffee shop's sales data, providing valuable insights to empower data-driven decision making. Through a combination of insightful charts and clear explanations, you'll gain a deeper understanding of your customers' buying habits, sales trends across various timeframes, and the performance of your product offerings.
 
 Key Performance Indicators (KPIs) at a Glance
+
 Total Sales: Get a clear picture of your overall sales performance for the analyzed period.
+
 Average Bill Value: Understand the typical amount customers spend per visit. Is there room to optimize upsell or cross-sell opportunities?
+
 Average Order Size: Identify the average number of items customers typically purchase. Can you leverage this knowledge to create targeted promotions or combo offers?
+
 Footfall: Track the total number of customers visiting your coffee shop within the timeframe. Analyze this alongside sales figures to identify trends in customer conversion rates.
 
 Demystifying Sales Trends
