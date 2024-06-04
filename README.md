@@ -45,6 +45,6 @@ This initial analysis lays the groundwork for even more in-depth exploration:
 Customer Segmentation: Uncover distinct customer groups with unique buying habits. Tailor marketing efforts to resonate with each segment for increased effectiveness.
 
 Cost Analysis: Examine product profitability to optimize pricing strategies and identify areas for potential cost savings.
-Employee Performance Analysis: Assess sales trends by staff member to identify top performers and provide targeted training or incentives.
+Employee Performance Analysis: Assess sales trends by staff members to identify top performers and provide targeted training or incentives.
 
 By continuing to analyze your coffee shop sales data, you can unlock a treasure trove of knowledge to optimize operations, drive long-term success, and keep your customers coming back for more.
